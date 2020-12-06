@@ -1,2 +1,2 @@
-# EvanWal.github.io
-EvanWal.com
+# WebSites
+GitHub Pages
