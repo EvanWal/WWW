@@ -1,2 +1,0 @@
-# EvanWal
-EvanWal.com
